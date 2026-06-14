@@ -1,5 +1,5 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Sufiyan Shaikh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxnMWhmbHFqaDFxYXN1N2ExaGk3dXRpZ2FnY2N3M2t2dmR4a3hpYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/da1KLqH7d2GJPVfkWI/giphy.gif" width="80"/>Sufiyan Shaikh! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3ZtZTY2azBqbDM0Nm1qdGRxaTgwcHR2eG9meTI5bjJhMTRvcW1reSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NGNb0YWcDjPgP9nlAW/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9xZWZsem0wZXBtY3VmcW1xcDUwdGJsYjBrN3VwcDRxd2hicjJmMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="230">
 <p><em>Self-Taught Full-Stack Developer based in Maharashtra, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
@@ -13,7 +13,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
+### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGFvYnE4bnV0bDhuNTk0b3BoMG04bTRwbTNuc3JvNXVxdmN6cTN4ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xUPGcfEAZhlZXCZrbi/giphy.gif" width="50"> A little about me...
 
 ```javascript
 const sufiyan = {
