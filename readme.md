@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxnMWhmbHFqaDFxYXN1N2ExaGk3dXRpZ2FnY2N3M2t2dmR4a3hpYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/da1KLqH7d2GJPVfkWI/giphy.gif" width="80"/>Sufiyan! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3ZtZTY2azBqbDM0Nm1qdGRxaTgwcHR2eG9meTI5bjJhMTRvcW1reSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NGNb0YWcDjPgP9nlAW/giphy.gif" width="50"></h2>
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmEwaWQ2ZG1wZnNmemdndmt6dXUwdHZzenNtdTJwcTd4Z3p6c3d1byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ptzlRfMuHaGgccUzbh/giphy.gif" width="80"/>I am Sufiyan! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3ZtZTY2azBqbDM0Nm1qdGRxaTgwcHR2eG9meTI5bjJhMTRvcW1reSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NGNb0YWcDjPgP9nlAW/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9xZWZsem0wZXBtY3VmcW1xcDUwdGJsYjBrN3VwcDRxd2hicjJmMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="230">
 <p><em>Self-Taught Full-Stack Developer based in Maharashtra, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
